@@ -23,3 +23,8 @@ rtsp://admin:@127.0.0.1:10080/ch1_1.264
 rtsp://admin:@127.0.0.1:10080/ch2_1.264
 etc…
 Again, this wiill only work on the local host where Night Owl Protect CMS is running. To test, login to Night Owl Protect CMS, log in, open the live view & finally open VLC and connect to the URI.
+
+
+-- 
+
+01272022 - No one has time for this.  Written up methodology here: https://github.com/Relkci/NightOwl-WifiCamera-Config-wnip2/
